@@ -1,4 +1,6 @@
-# sertifikasi_20081010249
+# Nama  : Dimas Satria Prayoga
+# NPM   : 20081010249
+# Prodi : Informatika
 
 Panduan Menjalankan Program PHP Toko Alat Kesehatan
 Langkah 1: Unduh Program
